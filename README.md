@@ -2,7 +2,7 @@
 
 A responsive, multi-section marketing site for **BioMedTech Solutions**, a *fictional* biomedical-technology company. It showcases AI-assisted diagnostic, monitoring and treatment devices, the technology behind them, customer references, an FAQ and a demo-request form. Built with plain HTML, CSS and JavaScript: no framework, no build step.
 
-**[Live demo](https://vaas125.github.io/biomedtech-landing-page/)**
+**[Live demo](https://arifaydin12.github.io/biomedtech-landing-page/)**
 
 ![Hero section with live cardiac monitor illustration](docs/screenshot.png)
 
@@ -59,4 +59,4 @@ The interactive behavior was checked in headless Edge with `puppeteer-core`: nav
 
 ## License
 
-[MIT](LICENSE) © Arif Enes
+[MIT](LICENSE) © Arif Enes Aydin
